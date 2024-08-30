@@ -1,0 +1,71 @@
+/* Estilo para la tabla */
+.table {
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #fff;
+}
+
+/* Estilo para el encabezado de la tabla */
+.table thead th {
+  background-color: #212529;
+  border: 1px solid #355e87;
+  font-size: 1.5rem;
+}
+
+/* Estilo para las filas alternas */
+.table tbody tr {
+  background-color: #da1186;
+  font-size: 1.5rem;
+}
+
+
+/* Estilo para las celdas */
+.table td,
+.table th {
+  border: 1px solid #454d55;
+  padding: 0.75rem;
+  text-align: left;
+  font-size: 1.5rem;
+}
+
+/* Estilo para el checkbox */
+.form-check-input {
+  margin-top: 0.3rem;
+}
+
+
+/* Estilo para el botón de detalle */
+.btn-primary {
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+/* Estilo para el botón de detalle al pasar el ratón */
+.btn-primary:hover {
+  color: #fff;
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+/* Estilo para el enlace de 'Show All' */
+a {
+  color: #007bff;
+}
+
+/* Estilo para el enlace de 'Show All' al pasar el ratón */
+a:hover {
+  color: #0056b3;
+}
+
+
+.btn {
+  text-decoration: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  color: #fff;
+}
+
+.btn-primary {
+  background-color: #007bff;
+}
